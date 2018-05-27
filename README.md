@@ -1,5 +1,5 @@
 # Notes-App
-A notetaking app that uses the terminal. The user can read/write/delete notes using commands in the terminal, notes are persisted using the filesystem.
+A note-taking app that uses the terminal. The user can read/write/delete notes using commands in the terminal, notes are persisted using the filesystem.
 
 ## How To Use
 - Open Terminal and `cd` to the directory.
